@@ -1,0 +1,2 @@
+PROJECT(TSP)
+ADD_SUBDIRECTORY(src header)
